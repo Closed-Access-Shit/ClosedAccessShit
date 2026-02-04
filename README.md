@@ -7,3 +7,16 @@
 ---
 
 This is our **only** open-source software. It manages product keys, verifies them, and downloads the products themselves. The rest is for you to apply for! Please inspect this codebase for common exploits and abuse them.
+
+**How to Test**
+
+> **Note:** This short guide only works for CLI users
+
+<p>
+    <strong>1.</strong> Clone this repo in the usual <code>git</code> fashion!<br />
+    <strong>2.</strong> Ensure you have Python installed (check <a href="pyproject.toml">pyproject.toml</a> for the minimum version requirement)<br />
+    <strong>3.</strong> Use f*cking Linux or macOS! I, boyninja1555, used to be a proud Windows user until the AI crap. Which explains why there's only a <a href="run">run script</a> for <code>/bin/sh</code>.<br />
+    <strong>4.</strong> Run the following command in the cloned directory:<br />
+    <code>./run</code><br />
+    You will see an error, which explains how to use the command. Enjoy!
+</p>
