@@ -1,0 +1,6 @@
+[project]
+name = "closedaccesshit"
+version = "0.0.1"
+description = "Downloader & key manager for products by ClosedAccessShit"
+requires-python = ">=3.9"
+dependencies = []
