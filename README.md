@@ -10,7 +10,7 @@ This is our **only** open-source software. It manages product keys, verifies the
 
 **How to Test**
 
-> **Note:** This short guide only works for CLI users
+> **Note:** This short guide only works for CLI users on Linux/macOS
 
 <p>
     <strong>1.</strong> Clone this repo in the usual <code>git</code> fashion!<br />
