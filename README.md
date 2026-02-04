@@ -15,8 +15,9 @@ This is our **only** open-source software. It manages product keys, verifies the
 <p>
     <strong>1.</strong> Clone this repo in the usual <code>git</code> fashion!<br />
     <strong>2.</strong> Ensure you have Python installed (check <a href="pyproject.toml">pyproject.toml</a> for the minimum version requirement)<br />
-    <strong>3.</strong> Use f*cking Linux or macOS! I, boyninja1555, used to be a proud Windows user until the AI crap. Which explains why there's only a <a href="run">run script</a> for <code>/bin/sh</code>.<br />
-    <strong>4.</strong> Run the following command in the cloned directory:<br />
+    <strong>3.</strong> Have the <code>uv</code> PIP package ready to support the <a href="run">run script</a><br />
+    <strong>4.</strong> Use f*cking Linux or macOS! I, boyninja1555, used to be a proud Windows user until the AI crap. Which explains why there's only a <a href="run">run script</a> for <code>/bin/sh</code>.<br />
+    <strong>5.</strong> Run the following command in the cloned directory:<br />
     <code>./run</code><br />
     You will see an error, which explains how to use the command. Enjoy!
 </p>
